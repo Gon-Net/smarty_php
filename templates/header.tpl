@@ -8,5 +8,5 @@
 </head>
 <body>
     <div class = "container" style = "width:90%">
-    <h1 class = "container well"> PHPCreator <small> Derechos reservados </small> </h1>
+    <h1 class = "container well"> ADMINIStrator <small> Derechos reservados </small> </h1>
 
